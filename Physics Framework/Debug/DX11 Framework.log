@@ -1,0 +1,7 @@
+﻿  GameObject.cpp
+D:\UniWork\FGGC-Semester2\Physics Framework\RigidBody.h(76,31): warning C4324: 'Rigidbody': structure was padded due to alignment specifier
+D:\UniWork\FGGC-Semester2\Physics Framework\RigidBody.h(25,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\FGGC-Semester2\Physics Framework\RigidBody.h(29,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UniWork\FGGC-Semester2\Physics Framework\RigidBody.h(33,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Appearance.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  DX11 Framework.vcxproj -> D:\UniWork\FGGC-Semester2\Physics Framework\Debug\DX11 Framework.exe
